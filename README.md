@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitin Yadav
-- 👀 I’m interested in : web development & sleeping 
+- 👀 I’m interested in : web development &                          sleeping 
 - 🌱 I’m currently learning : c programming, HTML
 - 📫 How to reach me : whitedevil2188@gmail.com
   
